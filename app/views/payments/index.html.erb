@@ -2,6 +2,7 @@
   <%= link_to categories_path do %>
     <i class="fa-solid fa-arrow-left"></i>
   <% end %>
+  <%= link_to 'Back', categories_path, class: 'back' %>
   <h2>TRANSACTIONS</h2>
   <%= button_to 'Sign out', destroy_user_session_path, method: :delete %>
 </nav>
