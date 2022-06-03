@@ -4,10 +4,10 @@
 
 
 > ### Video Link
-> [Watch video](https://www.loom.com/share/9c4d1ccafdd04a43a8f126e144408689)
+> [Watch video](https://www.loom.com/share/837813a1a8a04444938bc6f23db30965)
 
 > ## Live Link
-> [Visit website]()
+> [Visit website](https://afternoon-ocean-53619.herokuapp.com/)
 
 ### Preview
 
@@ -29,13 +29,13 @@ The end result should follow the data model below (this is an Entity Relationshi
 - Gems
   - Rspec
   - Capybara
-  - FactoryBot
   - Selenium-webdriver
   - Bcrypt
   - Letter-opener
   - Faker
   - cancancan
   - Devise
+  - ffi
 
 
 ## Getting Started
