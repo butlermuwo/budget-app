@@ -4,14 +4,14 @@
 
 
 > ### Video Link
-> [Watch video](https://www.loom.com/share/9c4d1ccafdd04a43a8f126e144408689)
+> [Watch video](https://www.loom.com/share/837813a1a8a04444938bc6f23db30965)
 
 > ## Live Link
-> [Visit website]()
+> [Visit website](https://afternoon-ocean-53619.herokuapp.com/)
 
 ### Preview
 
-![screenshot]()
+![screenshot](app/assets/images/127.0.0.1_3000_categories.png)
 
 
 # How to build the Budget app
