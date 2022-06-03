@@ -11,7 +11,7 @@
 
 ### Preview
 
-![screenshot](app/assets/images/127.0.0.1_3000_categories.png)
+![screenshot](app/assets/images/railscap.png.png)
 
 
 # How to build the Budget app
